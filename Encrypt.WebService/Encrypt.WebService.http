@@ -1,0 +1,6 @@
+@Encrypt.WebService_HostAddress = http://localhost:5275
+
+GET {{Encrypt.WebService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
